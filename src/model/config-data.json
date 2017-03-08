@@ -1,0 +1,5 @@
+[
+  { "source_identifier": "Position", "target_identifier": "Position_altered", "file_path" :"P:\\Temp\\", "endoint_uri" : "/producer/api/v1/positions", "dozer_maper" : "...", "bean_io" : "..."},
+  { "source_identifier": "Position2", "target_identifier": "Position_altered2", "file_path" :"P:\\Temp\\", "endoint_uri" : "/producer/api/v2/positions", "dozer_maper" : "...", "bean_io" : "..."},
+  { "source_identifier": "Securities", "target_identifier": "Securities_altered", "file_path" :"P:\\Temp\\", "endoint_uri":" /producer/api/v1/securities", "dozer_maper" : "...", "bean_io" : "..."}
+]

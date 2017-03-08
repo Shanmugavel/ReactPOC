@@ -1,0 +1,25 @@
+{
+  "name": "fire-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard for FIRE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-react": "^6.23.0",
+    "babelify": "^7.3.0",
+    "bootstrap": "^3.3.7",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-edit-inline": "^1.0.8",
+    "react-tabs": "^0.8.2",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "lite-server": "^2.2.2"
+  }
+}
